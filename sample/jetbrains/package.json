@@ -1,0 +1,9 @@
+{
+  "name": "wallaby-js-public",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "babel": "^5.8.23",
+    "chai": "^3.2.0"
+  }
+}
